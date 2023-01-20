@@ -1,1 +1,4 @@
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+Gravel_Normal.png filter=lfs diff=lfs merge=lfs -text
+Gravel_BaseMap.png filter=lfs diff=lfs merge=lfs -text
+Wall3_DefaultMaterial_Normal.png filter=lfs diff=lfs merge=lfs -text
